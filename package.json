@@ -1,6 +1,6 @@
 {
   "name": "@pleme-io/config-manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Runtime configuration management with window.ENV pattern",
   "type": "module",
   "main": "./dist/index.js",
