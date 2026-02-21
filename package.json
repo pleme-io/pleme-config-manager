@@ -1,5 +1,5 @@
 {
-  "name": "@pleme/config-manager",
+  "name": "@pleme-io/config-manager",
   "version": "1.0.0",
   "description": "Runtime configuration management with window.ENV pattern",
   "type": "module",
